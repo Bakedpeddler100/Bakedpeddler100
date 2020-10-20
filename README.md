@@ -1,5 +1,5 @@
 ### Laughing in Camus' way. 
-![Profile views](https://gpvc.arturio.dev/[Bakedpeddler100])
+![Profile views](https://gpvc.arturio.dev/Bakedpeddler100)
 <!--
 **Bakedpeddler100/Bakedpeddler100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
